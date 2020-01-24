@@ -1,13 +1,12 @@
-# Project Proposal
-## Austin Benoit, Chris Holland
-## Quic: Does the protocol achieve its goals.
+# Quic: Does the Protocol Achieve its Goals.
+Austin Benoit, Chris Holland  
 
-### What's the problem? Why is it important?
+### Problem Statement
 
-### what has been done? why are they not sufficient? including any of your previous, other and ongoing projects too.
+### Previous Work
 
-### what's your approach? why can it do better or differently?
+### Analytical Approach
 
-### expected deliverables and a rough biweekly time schedule
+### Expected Timeline
 
-### website url; any resources needed, references if any, etc
+### References
