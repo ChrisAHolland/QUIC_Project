@@ -1,1 +1,1 @@
-# CSC 466: QUIC Project
+[Project Proposal](proposal.md)
