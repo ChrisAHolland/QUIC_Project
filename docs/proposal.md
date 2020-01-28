@@ -12,6 +12,14 @@ This project will build upon the work done by Henry Baxter and Liam Simmons in a
 ### Analytical Approach
 
 ### Expected Timeline
+Week of | Deliverables
+---|---
+Jan 27 | Project Proposal
+Feb 3 | Review current Quic implementation
+Feb 17 | Goal
+March 2 | Goal
+March 16 | Create report
+March 23 | Prepare for presentation. Finalize the report
 
 ### References
 1. https://www.chromium.org/quic
