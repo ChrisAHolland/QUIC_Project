@@ -10,6 +10,17 @@ Over the course of this semester, we wish to analyze the QUIC protocol to determ
 This project will build upon the work done by Henry Baxter and Liam Simmons in an earlier offering of the CSC 466 course [3]. In their project they configured virtual machines to analyze the latency of QUIC and TCP and measure analytics. We aim to use their data and discover why the QUIC protocol performs the way it does through analysis of its implementation and architecture.
 
 ### Analytical Approach
+Quic is described as a "multiplexed and secure general-purpose transport protocol that provides:
+*Stream multiplexing
+
+   *  Stream and connection-level flow control
+
+   *  Low-latency connection establishment
+
+   *  Connection migration and resilience to NAT rebinding
+
+   *  Authenticated and encrypted header and payload
+QUIC uses UDP as a substrate to avoid requiring changes to legacy client operating systems and middleboxes"[4].
 
 ### Expected Timeline
 Week of | Deliverables
@@ -25,3 +36,4 @@ March 23 | Prepare for presentation. Finalize the report
 1. https://www.chromium.org/quic
 2. https://docs.google.com/presentation/d/15e1bLKYeN56GL1oTJSF9OZiUsI-rcxisLo9dEyDkWQs/edit#slide=id.g5b4208ab1_0_311
 3. https://csc466quic.wordpress.com/
+4. https://tools.ietf.org/html/draft-ietf-quic-transport-25
