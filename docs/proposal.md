@@ -11,24 +11,22 @@ This project will build upon the work done by Henry Baxter and Liam Simmons in a
 
 ### Analytical Approach
 Quic is described as a "multiplexed and secure general-purpose transport protocol that provides:
-*Stream multiplexing
 
-   *  Stream and connection-level flow control
+   * Stream multiplexing
+   * Stream and connection-level flow control
+   * Low-latency connection establishment
+   * Connection migration and resilience to NAT rebinding
+   * Authenticated and encrypted header and payload
 
-   *  Low-latency connection establishment
-
-   *  Connection migration and resilience to NAT rebinding
-
-   *  Authenticated and encrypted header and payload
-QUIC uses UDP as a substrate to avoid requiring changes to legacy client operating systems and middleboxes"[4].
+QUIC uses UDP as a substrate to avoid requiring changes to legacy client operating systems and middleboxes [4].
 
 ### Expected Timeline
 Week of | Deliverables
 ---|---
 Jan 27 | Project Proposal
-Feb 3 | Review current Quic implementation
-Feb 17 | Goal
-March 2 | Goal
+Feb 3 | Review current Quic implementation and architecture
+Feb 17 | Run analytical tests
+March 2 | Explore findings
 March 16 | Create report
 March 23 | Prepare for presentation. Finalize the report
 
