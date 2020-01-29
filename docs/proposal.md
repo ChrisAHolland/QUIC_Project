@@ -21,14 +21,14 @@ Quic is described as a "multiplexed and secure general-purpose transport protoco
 QUIC uses UDP as a substrate to avoid requiring changes to legacy client operating systems and middleboxes [4].
 
 ### Expected Timeline
-Week of | Deliverables
+| Week of | Deliverables |
 ---|---
-Jan 27 | Project Proposal
-Feb 3 | Review current Quic implementation and architecture
-Feb 17 | Run analytical tests
-March 2 | Explore findings
-March 16 | Create report
-March 23 | Prepare for presentation. Finalize the report
+| Jan 27 | Project Proposal |
+| Feb 3 | Review current Quic implementation and architecture |
+| Feb 17 | Run analytical tests |
+| March 2 | Explore findings |
+| March 16 | Create report |
+| March 23 | Prepare for presentation. Finalize the report |
 
 ### References
 1. https://www.chromium.org/quic
