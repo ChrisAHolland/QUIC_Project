@@ -5,3 +5,9 @@ Quic Presentation
 
 Quic Home Page
 - https://www.chromium.org/quic
+
+Quic and Nat
+- https://blog.cloudflare.com/the-road-to-quic/
+
+IETF draft of protocol
+- https://tools.ietf.org/html/draft-ietf-quic-transport-25
