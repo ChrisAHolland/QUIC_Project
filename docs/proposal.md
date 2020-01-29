@@ -26,7 +26,7 @@ Given this information, we expect to follow theapproach below in order to comple
 * Study the implementation and code surrounding Quic in current form
 * Run tests on the key points of the Quic protocol
 * Compile the results of tests and tie in any relevant literature
-* Use the compiled results and compare them with goals outlined in Quic as stated below
+* Use the compiled results and compare them with goals outlined in Quic as stated above
 
 ### Expected Timeline
 | Week of | Deliverables |
