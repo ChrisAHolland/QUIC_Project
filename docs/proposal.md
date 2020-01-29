@@ -10,21 +10,27 @@ Over the course of this semester, we wish to analyze the QUIC protocol to determ
 This project will build upon the work done by Henry Baxter and Liam Simmons in an earlier offering of the CSC 466 course [3]. In their project they configured virtual machines to analyze the latency of QUIC and TCP and measure analytics. We aim to use their data and discover why the QUIC protocol performs the way it does through analysis of its implementation and architecture.
 
 ### Analytical Approach
-Review the current literature documentation about Quic. Study the implementation and code surrounding Quic in current form. Run tests on the key points of the Quic protocol. Compile the results of tests and tie in any relevant literature. Use the compiled result and compare them with goals outlined in Quic as stated below.
+Quic is described as a "multiplexed and secure general-purpose transport protocol" that provides:
 
-Quic is described as a "multiplexed and secure general-purpose transport protocol that provides:
-
-   * Stream multiplexing
-   * Stream and connection-level flow control
-   * Low-latency connection establishment
-   * Connection migration and resilience to NAT rebinding
-   * Authenticated and encrypted header and payload
+* Stream multiplexing
+* Stream and connection-level flow control
+* Low-latency connection establishment
+* Connection migration and resilience to NAT rebinding
+* Authenticated and encrypted header and payload
 
 QUIC uses UDP as a substrate to avoid requiring changes to legacy client operating systems and middleboxes [4].
 
+Given this information, we expect to follow theapproach below in order to complete our research on QUIC.
+
+* Review the current literature documentation about Quic
+* Study the implementation and code surrounding Quic in current form
+* Run tests on the key points of the Quic protocol
+* Compile the results of tests and tie in any relevant literature
+* Use the compiled results and compare them with goals outlined in Quic as stated below
+
 ### Expected Timeline
 | Week of | Deliverables |
----|---
+| --- | --- |
 | Jan 27 | Project Proposal |
 | Feb 3 | Review current Quic implementation and architecture |
 | Feb 17 | Run analytical tests |
