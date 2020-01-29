@@ -10,6 +10,8 @@ Over the course of this semester, we wish to analyze the QUIC protocol to determ
 This project will build upon the work done by Henry Baxter and Liam Simmons in an earlier offering of the CSC 466 course [3]. In their project they configured virtual machines to analyze the latency of QUIC and TCP and measure analytics. We aim to use their data and discover why the QUIC protocol performs the way it does through analysis of its implementation and architecture.
 
 ### Analytical Approach
+Review the current literature documentation about Quic. Study the implementation and code surrounding Quic in current form. Run tests on the key points of the Quic protocol. Compile the results of tests and tie in any relevant literature. Use the compiled result and compare them with goals outlined in Quic as stated below.
+
 Quic is described as a "multiplexed and secure general-purpose transport protocol that provides:
 
    * Stream multiplexing
