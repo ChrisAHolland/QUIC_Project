@@ -29,14 +29,15 @@ Given this information, we expect to follow theapproach below in order to comple
 * Use the compiled results and compare them with goals outlined in Quic as stated above
 
 ### Expected Timeline
-| Week of | Deliverables |
-| --- | --- |
-| Jan 27 | Project Proposal |
-| Feb 3 | Review current Quic implementation and architecture |
-| Feb 17 | Run analytical tests |
-| March 2 | Explore findings |
-| March 16 | Create report |
-| March 23 | Prepare for presentation. Finalize the report |
+
+Week of | Deliverables 
+-------- | --------
+Jan 27 | Project Proposal
+Feb 3 | Review current Quic implementation and architecture
+Feb 17 | Run analytical tests
+March 2 | Explore findings
+March 16 | Create report
+March 23 | Prepare for presentation. Finalize the report
 
 ### References
 1. https://www.chromium.org/quic
