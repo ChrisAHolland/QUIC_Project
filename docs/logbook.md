@@ -12,5 +12,5 @@ This document will track the tasks and achievements we make over the course of t
 * Midterm Preperation. No real work on QUIC project.
 
 ### Week 4: Feb 24 - 28
-* Paper summary and presentation for QUIC-related paper
-* Preparing analytical approach for our own research
+* Paper summary and presentation for QUIC-related paper.
+* Preparing analytical approach for our own research.
