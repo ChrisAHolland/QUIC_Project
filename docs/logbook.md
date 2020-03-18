@@ -14,3 +14,20 @@ This document will track the tasks and achievements we make over the course of t
 ### Week 4: Feb 24 - 28
 * Paper summary and presentation for QUIC-related paper.
 * Preparing analytical approach for our own research.
+
+### Week 5: Mar 2 - 6
+* Decide on approach to take for simulating QUIC in a network
+* Decide on deliverables after refining scope
+
+### Week 6: Mar 9 - 13
+* Begin setup for simulation environment
+* Analyse QUICs implementation
+* Discuss findings in literature
+
+### Week 7 and 8: Mar 16 - 27
+* Continue analysis of QUICs architecture and implementation
+* Perform expiriments in the simulated environment
+* Analyse findings
+
+### Week 8: Mar 30 - Apr 3
+* Formalize findings and create report
