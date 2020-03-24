@@ -1,0 +1,11 @@
+Some interesting notes.
+I connect to my openlitespeed server on local host with chrome.
+Packets:
+1- 17 first request.
+1: Client hello
+2: Reject ( first time connection)
+3 - 6: Not sure. Might some key exchange phase?
+7: Client hello (complete this time) 
+8-17 not sure.
+18-19: keep alive?
+21 - 31 reload the connection Has a 0 rtt response
