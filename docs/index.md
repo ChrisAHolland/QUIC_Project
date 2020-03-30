@@ -3,6 +3,7 @@ Welcome to the homepage for Chris Holland and Austin Benoit's QUIC Project for C
 ## Contents <a name="contents"></a>
 * [Project Proposal](proposal.md)  
 * [Project Timeline](logbook.md)
-* [Log Entry 1](logs/log1.md)
-* [Log Entry 2](logs/log2.md)
+* [Log Entry 4](logs/log4.md)
 * [Log Entry 3](logs/log3.md)
+* [Log Entry 2](logs/log2.md)
+* [Log Entry 1](logs/log1.md)
